@@ -34,13 +34,9 @@ Here are some basic things to know about YasWeCan 😎;
 
 #### Tools I Use
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
-<code><img src="images/github.jpg" width="60" title="GitHub" /></code>
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
 <code><img src="images/docker.png" width="60" title="Docker" /></code>
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
              
-#### Lifestyle
-<!-- ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif) -->
-<img align="center" alt="Coding" width="800s" src="woman-coding.gif"/>
