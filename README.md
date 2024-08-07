@@ -8,7 +8,6 @@
 
 #### Connect with me 
 <a href="linkedin.com/in/jude-tochy-922492227//"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/judetochyx"><img src="images/twitter.png" width="60" /></a>
 
 <img align="right" alt="Coding" width="350" src="dev.gif"/>
 
@@ -31,10 +30,7 @@ Here are some basic things to know about YasWeCan 😎;
 #### Frameworks/Libraries I Use
 <code><img src="images/react.png" width="80" title="React" /></code>
 <code><img src="images/next.webp" width="80" title="Next" /></code>
-<code><img src="images/styledcomp.png" width="80" title="React" /></code>
 <code><img src="images/api.jpg" width="70" title="API" /></code>
-<code><img src="images/json.png" width="70" title="JSON" /></code>
-<code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
 
 #### Tools I Use
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
@@ -42,12 +38,9 @@ Here are some basic things to know about YasWeCan 😎;
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
 <code><img src="images/docker.png" width="60" title="Docker" /></code>
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
-<code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
-<code><img src="images/postman.png" width="60" title="Postman API" /></code>
 <code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
              
-       
 #### Lifestyle
 <!-- ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif) -->
 <img align="center" alt="Coding" width="800s" src="woman-coding.gif"/>
