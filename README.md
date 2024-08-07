@@ -7,7 +7,7 @@
        { softWare Engineer | Community Manager } 
 
 #### Connect with me 
-<a href="linkedin.com/in/jude-tochy-922492227//"><img src="images/linkedin.png" width="60" /></a>
+<a href="[linkedin.com/in/jude-tochy-922492227//](https://www.linkedin.com/in/yacine-lahjaily/)"><img src="images/linkedin.png" width="60" /></a>
 
 <img align="right" alt="Coding" width="350" src="dev.gif"/>
 
