@@ -2,11 +2,8 @@
 
 <code><img src="images/hero.png" width="and 500" title="HTML" /></code>
 
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="linkedin.com/in/jude-tochy-922492227//"> Yacine Lahjaily</a></div>
-
-
 ###   **What's my current role in tech?** </h2>
-       { softWare Engineer | Community Manager } 
+       { SoftWare Engineer | DevOps } 
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/yacine-lahjaily/"><img src="images/linkedin.png" width="60" /></a>
