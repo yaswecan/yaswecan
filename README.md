@@ -1,7 +1,5 @@
 <h1>Welcome To YasWeCan's Profile</h1>
 
-<code><img src="images/hero.png" width="and 500" title="HTML" /></code>
-
 ###   **What's my current role in tech?** </h2>
        { SoftWare Engineer | DevOps } 
 
