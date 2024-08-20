@@ -17,7 +17,6 @@ Here are some basic things to know about YasWeCan 😎;
 - 🌱 I’m currently exploring Frontend Web development, Mobile App development Open source,
 - 📫 How to reach me: Email: yacinelahjaily@gmail.com.
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Reading articles📖 and writing ✍.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
