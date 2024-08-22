@@ -4,13 +4,9 @@ I'm a MERN STACK Web Developer. My experience has provided me with the experienc
 
 
 ♥️ I enjoy making people laugh and coding. <br/>
-📫 How to reach me: [email](dev.muhib01@gmail.com) or [instagram](https://www.instagram.com/devmuhib) <br/>
+📫 How to reach me: [email](yacinelahjaily@gmail.com) 
 💬 Ask me about anything <br/>
 
-
-#### Connect with me:
-
-yacinelahjaily@gmail.com.
 
 #### Things I code with
 
