@@ -1,12 +1,21 @@
 ### Hi there 👋
 
-I'm a MERN STACK Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+I'm Yaswecan,
 
+As you already know, you're not here by accident. You came through the web to my GitHub profile. And you didn't pay for that, right?
 
-♥️ I enjoy making people laugh and coding. <br/>
+The web and technology we love have been built by a community of passionate people, driven by a desire to share knowledge before thinking about how much they can sell their work for. 
+
+I aspire to be one of those people who contribute by sharing knowledge and being useful to the community.
+
+This is why I find it cool to call myself Cityzen99 😂 (if you get the reference).
+
+Jokes aside, I'm a MERN STACK Web Developer. My experience has equipped me with the technical skills and knowledge necessary to successfully support a company and its IT team by providing reliable and sustainable software solutions for any web-based platform.
+
+♥️ I enjoy making people laugh and helping them grow, both personally and in coding.
+Discord : Yaswecan
 📫 How to reach me: [email](yacinelahjaily@gmail.com) 
 💬 Ask me about anything <br/>
-
 
 #### Things I code with
 
